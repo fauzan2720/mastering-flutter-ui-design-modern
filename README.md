@@ -6,7 +6,4 @@ Saya baru saja menyelesaikan project flutter mastering design ui modern dari kel
 
 https://www.instagram.com/reel/CbmUHRBj_mG/?utm_source=ig_web_copy_link
 
-
-## HASIL
-
 ![ui-modern](https://user-images.githubusercontent.com/74108522/161437949-41dc88fa-9aba-43f0-999a-73da7f187dbe.png)
